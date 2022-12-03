@@ -1,0 +1,249 @@
+.minimo-logo{
+	width:125px;
+	font-weight:'regular';
+	padding-top:70px;
+	/*margin-left:65px;*/
+	height:23px;
+	color:#3f3f3f;
+}
+.girl-img{
+	margin-bottom:70px 0 80px;
+	}
+
+/**********************header*********************************/
+
+.minimo-nav .navbar ul li{
+	
+	padding-top:75px;
+	display:inline-block;
+    list-style:none;
+}
+
+.minimo-nav .navbar ul li a {
+	display:inline-b;
+	text-decoration:none;
+	padding:10px;
+	margin-left:60px;
+	color:#c0c0c0;
+	text-transform:uppercase;
+	font-size:14px;
+
+}
+
+.photodiary-para ul .photod{
+	
+	color:#b3ad9d;
+	font-size:15px;
+	margin-bottom:25px;
+	
+}
+.photodiary-para ul li h1{
+	font-size:30px;
+	color:#626262;
+	margin-bottom:50px;
+	
+}
+
+.photodiary-para ul li{
+	
+	list-style:none;
+	color:#b4ad9e;
+	font-size:14px;
+	
+}
+.photodiary-para ul li p{
+	
+	font-size:14px;
+	font-weight:regular;
+	color:#898989;
+	line-height:1.5;
+	margin-bottom:40px;
+}
+.photodiary-para .para2{
+	
+	margin-bottom:30px;
+	font-size:14px;
+	
+}
+.photodiary-para .leavec{
+	margin-bottom:130px;
+	
+}
+.girl-img-section li {
+	width:400px;
+	display:inline-block;
+}
+
+.img-section{
+	width:400px;
+	margin-bottom:25px;
+	}
+
+.para-lifestyle ul li{
+	list-style:none;
+	margin-top:35px;
+}
+
+.para-lifestyle ul li h1{
+	
+	color:#626262;
+	font-size:30px;
+	font-weight:regular;
+	margin-bottom:27px;
+	display:inlne-block;
+}
+
+.para-lifestyle .lifetext{
+	font-size:14px;
+	font-weight:300;
+	color:#b3ad9e;
+	margin-bottom:28px;
+}
+.para-lifestyle ul li p{
+	font-size:14px;
+	color:#b0b0b0;
+	line-height:1.5;
+}
+
+.signup-sec h1{
+	
+	margin:50px;
+	font-size:30px;
+	font-weight:regular;
+}
+.signup-sec {
+	margin-top:120px;
+	background-color:#f0f0f0;
+	margin-bottom:110px;
+	position:relative;
+	}
+	 .emptydiv{
+	 height:0.5px;
+	 border:2px solid black;
+	 width:360px;
+	 position:absolute;
+	 top:80%;
+	 left:50%;
+	 transform: translate(-50%,-50%);
+	 border-width:thin;
+	 background-color:#6b6b6b;
+	 margin-top:20px;
+	 
+	 
+  }
+form a{
+	color:#333333;
+	display:inline-block;
+	margin: 0 auto;
+	position: absolute;
+	left:60%;
+	margin-bottom: 30px;
+}
+	
+.signup-sec .pre-head{
+ text-align:center;
+/*  margin-bottom:40px; */
+ 
+}
+
+.signup-sec .emailadd{
+	
+	text-align:center;
+	margin-bottom:20px;
+	display:inline-block;
+	
+}
+.signup-sec h1{
+	font-size:30px;
+	color:#333333;
+	
+}
+.signup-sec h5{
+	font-size:14px;
+}
+
+.lastsec{
+	margin-bottom:90px;
+}
+
+.loaddiv{
+	
+	margin:0 auto;
+	border:1px groove #626262;
+	height:62px;
+	width:165px;
+	 text-align:center;
+	 padding-top:15px;
+	 
+}
+.loaddiv a {
+	font-size:20px;
+	margin-top:25px;
+  text-decoration:none;
+  color:#818181;
+  font-weight:regular;
+  }
+ 
+.footer ul li{
+	display:inline-block;
+	
+}
+.footer{
+	background-color:#f0f0f0;
+	margin-top:60px;
+}
+.fot-nav1{
+	padding-left:20px;;
+	
+}
+.footer .fot-right{
+	margin-top:40px;
+	padding-right:70px;
+	
+}
+.footer .fot-left{
+	font-size:14px;
+	font-weight:400;
+	margin-top:40px;
+	padding-left:100px;
+	
+	
+}
+
+.footer .fot-tc{
+	padding-right:15px;
+	padding-bottom:40px;
+}
+.footer .fot-right li {
+	font-size:14px;
+	font-weight:regular;
+	padding-right:20px;
+	text-transform:capitalize;
+	
+}
+
+
+.footer .fot-right li a{
+	
+	color:#616161;
+	padding-right:15px;
+	font-weight:bold;
+	padding-bottom:40px;
+	text-transform:capitalize;
+}
+/*.signup-sec .emptydiv{
+	height:2px solid back;
+	width:400px;
+	margin:0 auto;
+	display:inline-block;
+}*/
+.signup-sec .signpara{
+	padding:80px;
+}
+.email-class input{
+	 position:relative;
+	 left:50%;
+	 transform:translate(-100%);
+	
+	 
+}
